@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>CITEC HITM</h1>https://github.com/Daviangecod/Lab-one.git
+    <h1>CITEC HITM</h1>
     <p>Address: 8283 , Yaounde, Cameroon</p>
     <img src="image.png" alt="Image of the school">
     <h2>Permanent Administrative Staff Members</h2>
